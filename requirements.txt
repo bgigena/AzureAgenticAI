@@ -1,0 +1,8 @@
+azure-functions
+azure-search-documents==11.6.0b4
+azure-identity
+azure-storage-blob
+openai
+tenacity
+langchain-text-splitters
+azure-monitor-opentelemetry
