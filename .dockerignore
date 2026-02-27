@@ -1,0 +1,15 @@
+.git
+.terraform
+.venv
+__pycache__
+azurite_data
+qdrant_data
+*.tf
+*.tfvars
+.terraform.lock.hcl
+ingestar_local.py
+Dockerfile
+docker-compose.yml
+README.md
+README_TECHNICAL.md
+ui/

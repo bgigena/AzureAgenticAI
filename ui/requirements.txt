@@ -1,0 +1,5 @@
+streamlit>=1.33
+openai>=1.30
+qdrant-client>=1.9
+azure-search-documents==11.6.0b4
+python-dotenv>=1.0
